@@ -1,0 +1,13 @@
+{
+  "routes": [
+    { "path": "/", "title": "Roxify · Offshore Wealth Infrastructure" },
+    { "path": "/partners", "title": "Roxify · For Partners" },
+    { "path": "/pricing", "title": "Roxify · Pricing" },
+    { "path": "/vault", "title": "Roxify · The Vault" },
+    { "path": "/personal", "title": "Roxify · Personal Engine" },
+    { "path": "/corporate", "title": "Roxify · Corporate Engine" },
+    { "path": "/dashboard", "title": "Roxify · Client Login" },
+    { "path": "/privacy", "title": "Roxify · Privacy Policy" },
+    { "path": "/terms", "title": "Roxify · Terms of Service" }
+  ]
+}
